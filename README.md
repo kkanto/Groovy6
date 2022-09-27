@@ -1,2 +1,2 @@
-# Groovy6
-This is GroovyTest2
+# gradle_template
+This is testow2o12345
